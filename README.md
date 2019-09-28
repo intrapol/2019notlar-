@@ -1,2 +1,2 @@
 # Ağlar
-- [NovellNetWare](./ressimler/netware-1.gif)
+- [NovellNetWare](./NovellNetWare.md)
