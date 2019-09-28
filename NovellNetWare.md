@@ -11,4 +11,7 @@ Netware 386 uyarlamaları pazara sürülmüştür.
   *  Netware v2.2
   *  Netware v3.11 ve 3.12
   *  Netware v4.01 ve 4.11
+
+
+  
 ![ressim](./ressimler/netware-1.gif)
