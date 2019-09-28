@@ -1,1 +1,2 @@
-https://www.tech-worm.com/netware-nedir/
+# Ağlar
+- [NovellNetWare](./ressimler/netware-1.gif)
