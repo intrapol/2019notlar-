@@ -1,1 +1,1 @@
-# 2019notlar-
+https://www.tech-worm.com/netware-nedir/
