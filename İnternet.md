@@ -6,4 +6,21 @@ bilgi sistemidir.
 düzeyinde protokol üzeirnde anlaşmaktadır
 HTTP internete kullanılan en populer ugulama protokolelrinden biriridr .
 ## Temel Web Sitesi
-``` deneme ```
+``` <!DOCTYPE>
+<html>
+<head>
+...
+...
+...
+</head>
+<body>
+...
+...
+</body>
+</html>
+ ```
+* DOCTYPE: html'in uyumluluk türünün belirtildiği kısım.
+* HTML: kök (root) Enement (eleman-ogge)dir en üst seviyedeki sayfa elemanı diğer bütün elemanlar bu tagın içinde
+bulunmalıdır sayfanını tümüne eşittir.
+* HEAD: metadata bilgilerinin bulunduğu kısımdır b bilgiler web tarayıcılar ve arama motorları tarafından kullanılırlar .
+* Body : web sayfasının gerçek içeriklerin bütün gösterilern sayfanın yapısı bu tag içinde bulunur .
