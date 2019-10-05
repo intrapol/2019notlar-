@@ -6,5 +6,4 @@ bilgi sistemidir.
 düzeyinde protokol üzeirnde anlaşmaktadır
 HTTP internete kullanılan en populer ugulama protokolelrinden biriridr .
 ## Temel Web Sitesi
-
-''' deneme '''
+``` deneme ```
