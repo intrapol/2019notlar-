@@ -1,4 +1,4 @@
 # Ağlar
 - [NovellNetWare](./NovellNetWare.md)
 # İntenret 
-- [İnternet](./İntenret.md)
+- [İnternet](./İnternet.md)
